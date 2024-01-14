@@ -1,16 +1,15 @@
 ---
-title: "This is the first post on Hugo"
-date: 2023-12-06T09:45:31-08:00
+title: "My midlife journey has just begun"
+date: 2024-01-14T09:45:31-08:00
 draft: false
 cover:
-  image: img/person.jpg
-  alt: 'This is a person image'
+  image: img/finding-dan-dan-grinwis-O35rT6OytRo-unsplash.jpg
+  alt: 'Desert image'
   caption: 'This is the caption'
-tags: ['html', 'css']
-categories: ['person']
+tags: []
+categories: ['life']
 ---
 
-# This is heading one
-## This is heading two
+# My journey
 
-This is paragraph.
+I am starting my journey to find my inner compass that guides me to get through the desert of my midlife.

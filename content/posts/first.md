@@ -13,3 +13,4 @@ categories: ['life']
 # My journey
 
 I am starting my journey to find my inner compass that guides me to get through the desert of my midlife.
+

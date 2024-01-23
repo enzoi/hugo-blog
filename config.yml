@@ -4,6 +4,7 @@ title: Midlife Journey Blog
 theme: PaperMod
 
 params:
+  comments: true
   homeInfoParams:
     Title: 'Hello Stranger'
     Content: "Welcome to my blog. Here you'll find a lot of cool information about me"
@@ -19,11 +20,8 @@ params:
     linkFullImages: true
 
   ShowBreadCrumbs: true
-
   ShowReadingTime: true
-
   ShowShareButtons: true
-
   ShowPostNavLinks: true
 
 menu:
@@ -40,3 +38,7 @@ menu:
       name: Archives
       url: /archives/
       weight: 30
+
+services:
+  disqus:
+    shortname: midlife-journey-blog
